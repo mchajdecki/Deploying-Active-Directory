@@ -35,13 +35,13 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#rg">Creating Resource Group</a></li>
-<li><a href="#vn">Creating a Virtual Network</a><li>
-<li><a href="#vm">Creating Virtual Machines</a></li>
-<li><a href="#configdc">Configuring Domain Controller VM</a></li>
-<li><a href="#firewall">Disable the Windows Firewall</a></li>
-<li><a href="#configcl">Configure Client VM</a></li>
-<li><a href="#ping">Ping Domain Controller from Client VM</li></li>
+<li><a href="#install">Install Active Directory Services</a></li>
+<li><a href="#config">Configure Active Directory</a><li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></li></li>
 </ul>
 
 <br/>
